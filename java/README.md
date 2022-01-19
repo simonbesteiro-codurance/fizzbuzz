@@ -31,7 +31,7 @@ FizzBuzz
 
 ```
 public class FizzBuzz {
-    public String convert(int number) {
+    public static String convert(int number) {
         throw new UnsupportedOperationException("implement me!");
     }
 }
